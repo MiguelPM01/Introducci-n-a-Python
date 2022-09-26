@@ -26,7 +26,16 @@ Dentro de este repositorio encontraremos los ejercicios correspondientes para in
 
 # Referencias
 
--
+Dentro de los links que se muestran a continuación , podrás encontrar el contenido necesario para las configuraciones correspondientes para este ejercicio.
+
+- [Instalación de Ubuntu 20.04 en VirtualBox Windows.](https://edu.codigoiot.com/course/view.php?id=812)
+- [Introducción a Raspberry Pi.](https://edu.codigoiot.com/course/view.php?id=830)
+- [Instalación de Raspberry OS en Raspberry Pi 4](https://edu.codigoiot.com/course/view.php?id=823)
+- [Configurar WiFi y SSH en Raspberry Pi sin Monitor.](https://edu.codigoiot.com/course/view.php?id=815)
+- [Conectarse a WiFi en Raspberry Pi](https://edu.codigoiot.com/course/view.php?id=824)
+- [Cómo Activar el SSH en Raspberry Pi](https://edu.codigoiot.com/mod/page/view.php?id=1591)
+- [Comunicación con Raspberry y SSH](https://edu.codigoiot.com/course/view.php?id=844)
+- [Comunicación VNC con la Raspberry Pi](https://edu.codigoiot.com/course/view.php?id=816)
 
 
 # Evidencias 
