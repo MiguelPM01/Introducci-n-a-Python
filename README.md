@@ -33,4 +33,4 @@ Dentro de este repositorio encontraremos los ejercicios correspondientes para in
 
 En los siguientes enlaces podrás encontrar las evidencias de los distinos programas básicos que se realizaron en el lenguaje de programación **Python.**
 
--[Tik Tok](https://www.tiktok.com/@miguelperaltamartinez/video/7146636355911699717?is_from_webapp=1&sender_device=pc&web_id=7147745806438172165)
+- [Tik Tok](https://www.tiktok.com/@miguelperaltamartinez/video/7146636355911699717?is_from_webapp=1&sender_device=pc&web_id=7147745806438172165)
