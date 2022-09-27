@@ -36,7 +36,11 @@ Dentro de los links que se muestran a continuación , podrás encontrar el conte
 - [Cómo Activar el SSH en Raspberry Pi](https://edu.codigoiot.com/mod/page/view.php?id=1591)
 - [Comunicación con Raspberry y SSH](https://edu.codigoiot.com/course/view.php?id=844)
 - [Comunicación VNC con la Raspberry Pi](https://edu.codigoiot.com/course/view.php?id=816)
+- [Programación básica en Python](https://edu.codigoiot.com/course/view.php?id=838)
 
+**NOTA**
+
+El contenido que se muestra en los enlaces pertenece a la plataforma de Código IoT del curso de Internet de las cosas.
 
 # Evidencias 
 
