@@ -5,7 +5,7 @@ Dentro de este repositorio encontraremos los ejercicios correspondientes para in
 
 *Python es un lenguaje de programación ampliamente utilizado en las aplicaciones web, el desarrollo de software, la ciencia de datos y el machine learning (ML). Los desarrolladores utilizan Python porque es eficiente y fácil de aprender, además de que se puede ejecutar en muchas plataformas diferentes. El software Python se puede descargar gratis, se integra bien a todos los tipos de sistemas y aumenta la velocidad del desarrollo.*
 
-*El objetivo de estos ejercicios es poder familiarizarnos con el entorno de trabajo de **Python** en Visual Studio Code dentro de nuestra máquina virtual con el sistema operativo Ubuntu 20.04 LTS, al realizar estos ejercicios nos estaremos familiarizando con la forma de trabajar en Python. También pudimos hacer aplicaciones con el [sensor MLX90614 y Raspberry Pi 4 para poder medir la temperatura del ambiente y la temperatura de un objeto o persona.](https://github.com/MiguelPM01/Introduccion-a-Python/blob/main/Manejo%20de%20Sensores%20Con%20Raspberry%20Pi/MLX90614.png), [se realizó también un ejercicio con el sensor ultrasónico para meidr la distancia de objetos]() *
+*El objetivo de estos ejercicios es poder familiarizarnos con el entorno de trabajo de **Python** en Visual Studio Code dentro de nuestra máquina virtual con el sistema operativo Ubuntu 20.04 LTS, al realizar estos ejercicios nos estaremos familiarizando con la forma de trabajar en Python. También pudimos hacer aplicaciones con el [sensor MLX90614 y Raspberry Pi 4 para poder medir la temperatura del ambiente y la temperatura de un objeto o persona.](https://github.com/MiguelPM01/Introduccion-a-Python/blob/main/Manejo%20de%20Sensores%20Con%20Raspberry%20Pi/MLX90614.png), [se realizó también un ejercicio con el sensor ultrasónico para meidr la distancia de objetos](https://github.com/MiguelPM01/Introduccion-a-Python/blob/main/Manejo%20de%20Archivos/Ultras%C3%B3nico.png) *
 
 # Materiales electrónicos/eléctricos a utilizar
 
@@ -15,7 +15,7 @@ Dentro de este repositorio encontraremos los ejercicios correspondientes para in
 - [Raspberry Pi 4.](https://articulo.mercadolibre.com.mx/MLM-788983710-raspberry-pi-4-b-8gb-carcasa-case-eliminador-oficial-pi4-kit-_JM#position=1&search_layout=stack&type=item&tracking_id=57ff4143-fd4f-491d-8bfe-f53dd6847c79)
 - [Tarjeta GPIO extensión para Raspberry Pi 4.](https://articulo.mercadolibre.com.mx/MLM-921624356-tarjeta-gpio-extension-raspberry-pi4-pi-4-cable-40-pin-2-3-b-_JM#position=7&search_layout=grid&type=item&tracking_id=a936cabe-0375-4093-ada7-49007f8d2a72)
 - [Cable para PRotoboard.](https://articulo.mercadolibre.com.mx/MLM-791835255-kit-140-cables-jumpers-para-protoboard-14-tamanos-diferentes-_JM#position=7&search_layout=stack&type=item&tracking_id=11ac9ff7-1166-4777-ace6-ec5cacf0593d)
-- [Sensor Ultrasónico.](https://articulo.mercadolibre.com.mx/MLM-603602115-sensor-ultrasonico-hc-sr04-_JM#position=1&search_layout=stack&type=item&tracking_id=dcf0c3f7-5acc-4324-a3fb-6bdd8d001609).
+- [Sensor Ultrasónico.](https://articulo.mercadolibre.com.mx/MLM-603602115-sensor-ultrasonico-hc-sr04-_JM#position=1&search_layout=stack&type=item&tracking_id=dcf0c3f7-5acc-4324-a3fb-6bdd8d001609)
 
 # Software a utilizar
 
@@ -47,4 +47,5 @@ El contenido que se muestra en los enlaces pertenece a la plataforma de Código 
 
 En los siguientes enlaces podrás encontrar las evidencias de los distinos programas básicos que se realizaron en el lenguaje de programación **Python.**
 
-- [Tik Tok](https://www.tiktok.com/@miguelperaltamartinez/video/7146636355911699717?is_from_webapp=1&sender_device=pc&web_id=7147745806438172165)
+- [Sensor MLX90614.](https://www.tiktok.com/@miguelperaltamartinez/video/7146636355911699717?is_from_webapp=1&sender_device=pc&web_id=7147745806438172165)
+- [Sensor Ultrasónico](https://www.tiktok.com/@miguelper11h/video/7148593536412224773?is_from_webapp=1&sender_device=pc&web_id=7147745806438172165)
